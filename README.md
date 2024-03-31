@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allem</h1>
 <h3 align="center">A SOFTWARE ENGINEER</h3>
 
+<details>
+ <summary>Summary</summary>
+Greetings, fellow code enthusiasts and fitness aficionados! My journey into the world of software engineering began with a simple question: "How do computers work?" That question, much like a good puzzle, led me down a path of discovery and exploration, turning me into the kind of person who loves to dive deep into the complexities of algorithms and the elegance of clean, efficient code. But don't let my love for code fool you; I'm also a fitness enthusiast, a gamer, and a self-improvement junkie. My academic journey has been as adventurous as my coding projects. From the hallowed halls of Al-Azhar University to the cutting-edge curriculum at ALX, I've been at the forefront of learning, always ready to dive into the next big challenge. These experiences have not only equipped me with the technical skills needed to excel in the tech industry but have also instilled in me a deep appreciation for continuous learning and the joy of discovery. My portfolio is a testament to my ability to tackle challenges head-on, often with a side of humor and a dash of creativity. From creating a Simple Shell to cloning the AirBnb console, each project is a reflection of my love for problem-solving and my knack for turning complex challenges into simple, elegant solutions. So, if you're looking for someone who's as passionate about solving problems as they are about learning new things, who loves a good challenge, and who's always up for a game of chess or a workout, then you've come to the right place. I'm always on the lookout for the next big challenge, whether it's a new algorithm to solve or a new game to conquer. After all, life is too short for bad code, and I'm here to prove it.
+</details>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c4ll-0f-du5ty" alt="c4ll-0f-du5ty" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-View-black?style=for-the-badge&logo=github)](https://github.com/C4ll-0f-Du5ty?tab=repositories)
@@ -9,7 +14,10 @@
 
 - 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1ZZ0ZWxSoNE-Uw8B0s4plUbdyokYirwfh/view?usp=sharing)
 
-- ⚡ Fun fact **I've spent over a decade immersed in the digital world, racking up over 100 hours of gameplay in my favorite game, which is currently ranked in the top 100 games of all time. I've also completed a half-marathon and am training for a full marathon. In my quest for self-improvement, I've read over 50 books on the subject and have applied insights from psychology to enhance my decision-making. I'm a workout player and bodybuilder who's not afraid to flex my muscles (and my knowledge of psychology) in the gym. And let's not forget my competitive gaming skills, particularly in League of Legends, where I've won a significant number of competitions. It's a bit like being a superhero, but instead of saving the world, I'm saving my workout schedule and dominating the game!**
+<details>
+ <summary>⚡ Fun fact</summary>
+ I've spent over a decade immersed in the digital world, racking up over 100 hours of gameplay in my favorite game, which is currently ranked in the top 100 games of all time. I've also completed a half-marathon and am training for a full marathon. In my quest for self-improvement, I've read over 50 books on the subject and have applied insights from psychology to enhance my decision-making. I'm a workout player and bodybuilder who's not afraid to flex my muscles (and my knowledge of psychology) in the gym. And let's not forget my competitive gaming skills, particularly in League of Legends, where I've won a significant number of competitions. It's a bit like being a superhero, but instead of saving the world, I'm saving my workout schedule and dominating the game!
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
