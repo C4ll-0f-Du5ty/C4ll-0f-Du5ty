@@ -23,8 +23,9 @@ Greetings, fellow code enthusiasts and fitness aficionados! My journey into the 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/c4ll_0f_du5ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c4ll_0f_du5ty" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/allemhamed98" target="blank"><img align="center" src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/hackerrank2.png" alt="c4ll_0f_du5ty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/call_of_dusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="call_of_dusty" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/c4ll_0f_du5ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c4ll_0f_du5ty" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/C4ll-0f-Du5ty" target="blank"><img align="center" src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/codewars.png" alt="Codewars" height="30" width="40" /></a>
 </p>
 
