@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]   # Runs every day at midnight
-  workflow_dispatch:                   # Allows manual run
+  schedule: [{ cron: "0 0 * * *" }]    # Runs daily at midnight
+  workflow_dispatch:                    # Allows you to run it manually
 
 jobs:
   build:
@@ -10,12 +10,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: c4ll-0f-du5ty
-          output: github-contribution-grid-snake.svg
-
+          outputs: |
+            github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
