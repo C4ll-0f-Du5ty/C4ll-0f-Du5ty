@@ -1,39 +1,130 @@
-<h1 align="center">Hi 👋, I'm Allem</h1>
-<h3 align="center">A SOFTWARE ENGINEER</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Allem+Hamed;Full-Stack+Software+Engineer;Django+%2B+React+%7C+Scalable+Systems;Founder+%40+Autronic+Solutions;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 
-<details>
- <summary>Summary</summary>
-Greetings, fellow code enthusiasts and fitness aficionados! My journey into the world of software engineering began with a simple question: "How do computers work?" That question, much like a good puzzle, led me down a path of discovery and exploration, turning me into the kind of person who loves to dive deep into the complexities of algorithms and the elegance of clean, efficient code. But don't let my love for code fool you; I'm also a fitness enthusiast, a gamer, and a self-improvement junkie. My academic journey has been as adventurous as my coding projects. From the hallowed halls of Al-Azhar University to the cutting-edge curriculum at ALX, I've been at the forefront of learning, always ready to dive into the next big challenge. These experiences have not only equipped me with the technical skills needed to excel in the tech industry but have also instilled in me a deep appreciation for continuous learning and the joy of discovery. My portfolio is a testament to my ability to tackle challenges head-on, often with a side of humor and a dash of creativity. From creating a Simple Shell to cloning the AirBnb console, each project is a reflection of my love for problem-solving and my knack for turning complex challenges into simple, elegant solutions. So, if you're looking for someone who's as passionate about solving problems as they are about learning new things, who loves a good challenge, and who's always up for a game of chess or a workout, then you've come to the right place. I'm always on the lookout for the next big challenge, whether it's a new algorithm to solve or a new game to conquer. After all, life is too short for bad code, and I'm here to prove it.
-</details>
+  <h3>Full-Stack Software Engineer & Founder | Crafting production-grade, scalable, and secure web solutions that drive real impact</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=c4ll-0f-du5ty&theme=radical&no-bg=true&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://allem.pro/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/Du5ty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://drive.google.com/file/d/1gN1tksgmAj0fPgsIVVhI3B5h9jeHJZ1S/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View%20Latest-00C853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="mailto:allemhamed98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-<!---[![trophy](https://github-profile-trophy.vercel.app/?username=c4ll-0f-du5ty&theme=onedark&no-bg=true&no-frame=true&title=Commits,MultiLanguage,Repositories,Experience)](https://github.com/ryo-ma/github-profile-trophy)--->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=c4ll-0f-du5ty&label=Profile%20Views&color=00D4FF&style=for-the-badge" alt="Profile Views" />
+</div>
 
-- 👨‍💻 All of my projects are available at [![GitHub](https://img.shields.io/badge/GitHub-View-black?style=for-the-badge&logo=github)](https://github.com/C4ll-0f-Du5ty?tab=repositories)
+---
 
-- 📫 How to reach me **allemhamed98@gmail.com**
+### 👋 About Me
 
-- 📄 Know about my experiences [![Resume](https://img.shields.io/badge/Resume-View-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1gN1tksgmAj0fPgsIVVhI3B5h9jeHJZ1S/view)
+Hi, I'm **Allem Hamed** — a passionate **Full-Stack Software Engineer** and **Founder & Head of Engineering** at [Autronic Solutions](http://autronicsolutions.com/).
 
-<details>
- <summary>⚡ Fun fact</summary>
- I've spent over a decade immersed in the digital world, racking up over 100 hours of gameplay in my favorite game, which is currently ranked in the top 100 games of all time. I've also completed a half-marathon and am training for a full marathon. In my quest for self-improvement, I've read over 50 books on the subject and have applied insights from psychology to enhance my decision-making. I'm a workout player and bodybuilder who's not afraid to flex my muscles (and my knowledge of psychology) in the gym. And let's not forget my competitive gaming skills, particularly in League of Legends, where I've won a significant number of competitions. It's a bit like being a superhero, but instead of saving the world, I'm saving my workout schedule and dominating the game!
-</details>
+With a BSc in **Computer Science & Pure Mathematics** from Al-Azhar University and hands-on training from the intensive **ALX Software Engineering** program, I specialize in building **scalable, secure, and maintainable** web applications using modern full-stack technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/profile/allemhamed98" target="blank"><img align="center" src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/hackerrank2.png" alt="c4ll_0f_du5ty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/call_of_dusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="call_of_dusty" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/c4ll_0f_du5ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="c4ll_0f_du5ty" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/C4ll-0f-Du5ty" target="blank"><img align="center" src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/codewars.png" alt="Codewars" height="30" width="40" /></a>
+As founder, I lead the development of **FIST** — a modular MES+ERP platform (OEE, Production, Maintenance, Inventory, ERP) that connects shop-floor telemetry to intelligent workflows, reducing downtime and boosting throughput. I've shipped production-ready OEE and Production modules and continue iterating on the full suite while mentoring the engineering team.
+
+I thrive on transforming complex problems into elegant, production-ready solutions — from real-time social platforms to intelligent fleet management systems.
+
+**Currently open to strategic collaborations, full-time roles, and impactful projects.**
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 14px; max-width: 920px; margin: 20px auto;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="52" height="52" title="Django / DRF" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="52" height="52" title="React.js + Vite" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="52" height="52" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="52" height="52" title="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="52" height="52" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="52" height="52" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="52" height="52" title="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="52" height="52" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="52" height="52" title="Bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="52" height="52" title="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="C++" width="52" height="52" title="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="52" height="52" title="Redis" />
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c4ll-0f-du5ty&theme=radical&hide_border=true&border_radius=16&date_format=M%20j%2C%20Y&ring_color=00D4FF&fire=00D4FF&currStreakNum=00D4FF" alt="GitHub Streak" height="195" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=c4ll-0f-du5ty&show_icons=true&theme=radical&hide_border=true&border_radius=16&rank_icon=github&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" height="195" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ll-0f-du5ty&layout=compact&theme=radical&hide_border=true&border_radius=16&hide=jupyter%20notebook,html,css&langs_count=12" alt="Top Languages" height="195" />
+</div>
+
+---
+
+### 🏆 Achievements & Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=c4ll-0f-du5ty&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🚀 Featured Projects
+
+Explore live demos, architecture diagrams, and technical deep-dives on my **[Portfolio](https://allem.pro/)**.
+
+**Highlights:**
+- **FIST (MES+ERP Platform)** — Modular manufacturing execution & planning system (OEE, Production, Maintenance, Inventory, ERP). Production modules shipped and in active use.
+- **Career Link** — Real-time social networking platform with messaging, notifications, and advanced authentication.
+- **Cartopia** — Scalable full-stack e-commerce solution with secure payments and admin analytics.
+- **Spotter AI** — Intelligent truck fleet tracking and log management system.
+- **Plan_B_Plate** — AI-powered meal planning and nutrition web application.
+
+All projects → **[Repositories](https://github.com/C4ll-0f-Du5ty?tab=repositories)**
+
+---
+
+### 🎓 Education
+
+- **BSc Computer Science & Pure Mathematics** — Al-Azhar University (2020 – 2025)
+- **Software Engineering** — ALX (2023 – 2025) — Intensive, project-driven program
+
+---
+
+### 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Du5ty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://allem.pro/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-allem.pro-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:allemhamed98@gmail.com"><img src="https://img.shields.io/badge/Email-Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/1gN1tksgmAj0fPgsIVVhI3B5h9jeHJZ1S/view" target="_blank"><img src="https://img.shields.io/badge/Resume-Download-00C853?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+**Competitive Programming:**
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/allemhamed98" target="_blank"><img src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/hackerrank2.png" alt="HackerRank" height="42" /></a>
+  <a href="https://leetcode.com/call_of_dusty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="42" /></a>
+  <a href="https://codeforces.com/profile/c4ll_0f_du5ty" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="42" /></a>
+  <a href="https://www.codewars.com/users/C4ll-0f-Du5ty" target="_blank"><img src="https://github.com/C4ll-0f-Du5ty/C4ll-0f-Du5ty/blob/main/codewars.png" alt="Codewars" height="42" /></a>
+</p>
 
-[![Allem's github stats](https://github-readme-stats.vercel.app/api?username=c4ll-0f-du5ty&show_icons=true&theme=radical&hide=["contribs","issues"])](https://github.com/C4ll-0f-Du5ty)  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c4ll-0f-du5ty&layout=compact&theme=radical&hide=["contribs","issues"])](https://github.com/C4ll-0f-Du5ty)
-##
+---
+
+<div align="center">
+  <img src="https://github.com/c4ll-0f-du5ty/c4ll-0f-du5ty/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
+  <i>Life is too short for bad code. Let's build something exceptional together.</i>
+</div>
+
 <!---
 C4ll-0f-Du5ty/C4ll-0f-Du5ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
