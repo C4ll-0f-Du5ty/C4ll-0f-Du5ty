@@ -38,41 +38,21 @@ I thrive on transforming complex problems into elegant, production-ready solutio
 
 ### 🛠️ Tech Stack
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 14px; max-width: 920px; margin: 20px auto;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="52" height="52" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="Django" width="52" height="52" title="Django / DRF" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="52" height="52" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="52" height="52" title="React.js + Vite" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="52" height="52" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="52" height="52" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="52" height="52" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="52" height="52" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="52" height="52" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="52" height="52" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="52" height="52" title="Nginx" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="52" height="52" title="Bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="52" height="52" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="C++" width="52" height="52" title="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="52" height="52" title="Redis" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,typescript,postgres,docker,kubernetes,git,linux,nginx,bash,c,cpp,redis,html,css,mysql,postgresql" alt="Tech Stack" width="85%" />
+</p>
 
 ---
 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c4ll-0f-du5ty&theme=radical&hide_border=true&border_radius=16&date_format=M%20j%2C%20Y&ring_color=00D4FF&fire=00D4FF&currStreakNum=00D4FF" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c4ll-0f-du5ty&theme=radical&hide_border=true&border_radius=16&date_format=M%20j%2C%20Y&ring_color=00D4FF&fire=00D4FF" alt="GitHub Streak" height="195" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=c4ll-0f-du5ty&show_icons=true&theme=radical&hide_border=true&border_radius=16&rank_icon=github&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" height="195" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4ll-0f-du5ty&layout=compact&theme=radical&hide_border=true&border_radius=16&hide=jupyter%20notebook,html,css&langs_count=12" alt="Top Languages" height="195" />
 </div>
-
----
-
-### 🏆 Achievements & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=c4ll-0f-du5ty&theme=radical&no-bg=true&no-frame=true&margin-w=15&margin-h=15&row=1&column=7&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
