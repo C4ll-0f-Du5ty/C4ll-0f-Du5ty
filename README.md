@@ -66,21 +66,20 @@ My flagship project **FIST** is a modular MES+ERP platform designed to drastical
 - **Cartopia** 🛒 — High-availability full-stack e-commerce engine
 - **Plan_B_Plate** — AI-powered intelligent meal planning application
 
-All projects available in my **[Repositories](https://github.com/C4ll-0f-Du5ty?tab=repositories)**
-
 ---
 
 ### 🌌 Contribution Odyssey
 
 <div align="center">
-  <img src="https://github.com/c4ll-0f-du5ty/c4ll-0f-du5ty/blob/main/github-contribution-grid-snake.svg?v=6" 
-       alt="Contribution Odyssey" 
-       width="96%" 
-       style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 212, 255, 0.15);"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c4ll-0f-du5ty/c4ll-0f-du5ty/main/ocean.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c4ll-0f-du5ty/c4ll-0f-du5ty/main/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snack" src="https://raw.githubusercontent.com/c4ll-0f-du5ty/c4ll-0f-du5ty/main/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <p align="center">
-  <em>A cinematic visualization of my coding journey — every green square represents relentless building, learning, and shipping.</em>
+  <em>A cinematic visualization of my coding journey — every square represents relentless building and shipping.</em>
 </p>
 
 ---
@@ -88,7 +87,7 @@ All projects available in my **[Repositories](https://github.com/C4ll-0f-Du5ty?t
 ### 🖋️ Engineered Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Life%20is%20too%20short%20for%20bad%20code.%20Let's%20build%20something%20exceptional%20together." alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Life%20is%20too%20short%20for%20bad%20code.%20Let's%20build%20something%20exceptional%20together.&author=Allem%20Hamed" alt="Quote" />
 </div>
 
 <br />
