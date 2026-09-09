@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://allem.pro/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <!-- <a href="https://allem.pro/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
     <a href="https://www.linkedin.com/in/Du5ty" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:allemhamed98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF5722?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://drive.google.com/file/d/1gCwM1fM2hWpuRerp9fOGQlh1Dj3vTtjU/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-Latest-00C853?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
